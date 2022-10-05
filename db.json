@@ -1,0 +1,35 @@
+{
+  "juegos": [
+    {
+      "tipo": "videojuego",
+      "nombre": "Genshin Impact",
+      "fecha": "2020-09-28",
+      "descripcion": "Genshin Impact es un videojuego de rol de acción de mundo abierto y gratuito, con una mecánica de monetización de gacha para conseguir elementos adicionales como personajes especiales y armas.",
+      "img": "https://i.ytimg.com/vi/jEp9yyhwZFE/maxresdefault.jpg",
+      "id": "1"
+    },
+    {
+      "tipo": "videojuego",
+      "nombre": "Cuphead",
+      "fecha": "2017-09-29",
+      "descripcion": "Cuphead es un videojuego perteneciente al género de corre y dispara, publicado por la empresa canadiense StudioMDHR. Fue lanzado al mercado el 29 de septiembre de 2017 para Microsoft Windows, Xbox One y Steam, en 2018 para macOS, en 2019 para Nintendo Switch y en 2020 para PlayStation 4.",
+      "img": "https://image.api.playstation.com/vulcan/img/cfn/11307fllh6D-IvbpCa18N0vRggVeRYWA06paTNCj3DENJMScAzW2f3ry4IwFcXBAt9kWXdZGpGoOGjxJ_e9MdordMVAosNhZ.png",
+      "id": "1a5ab54e-adad-41c8-a04e-e079f8baa788"
+    },
+    {
+      "tipo": "videojuego",
+      "nombre": "Scaramuccia",
+      "fecha": "2022-09-28",
+      "descripcion": "El mejor juego del mundo",
+      "img": "https://areajugones.sport.es/wp-content/uploads/2022/06/sin-titulo-1-recuperado-1-8-1080x609.jpg",
+      "id": "dcd6f802-a9bb-4a80-8bec-ef00bb471e2a"
+    }
+  ],
+  "user": [
+    {
+      "nombre": "cinthiavota",
+      "contraseña": "1234",
+      "id": "0"
+    }
+  ]
+}
