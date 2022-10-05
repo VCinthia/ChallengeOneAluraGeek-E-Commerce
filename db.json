@@ -23,6 +23,14 @@
       "descripcion": "El mejor juego del mundo",
       "img": "https://areajugones.sport.es/wp-content/uploads/2022/06/sin-titulo-1-recuperado-1-8-1080x609.jpg",
       "id": "dcd6f802-a9bb-4a80-8bec-ef00bb471e2a"
+    },
+    {
+      "tipo": "videojuego",
+      "nombre": "Juego de prueba",
+      "fecha": "2022-10-05",
+      "descripcion": "El mejor juego del mundo",
+      "img": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/2SRVZDMIEBDFRAS4WDAEPEZ7OI.jpeg",
+      "id": "96ade3a2-d569-4999-a0d0-a81157a8c8ef"
     }
   ],
   "user": [
